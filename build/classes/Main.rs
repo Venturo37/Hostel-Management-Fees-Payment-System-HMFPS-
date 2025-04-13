@@ -1,0 +1,9 @@
+User
+QuadRoom
+SingleRoom
+Staff
+DoubleRoom
+Resident
+Manager
+Room
+Main
