@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/LogIn.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Staff_ConfirmPayment.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ManagerRoomManagement.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_ViewActivityLog.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/StaffUserRoomManagement.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_SearchUser.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Staff_RemoveUserFromRoom.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ResidentRoomManagement.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/User_ViewReceipt.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/StaffMenu.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ManagerMenu.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_DeleteUser.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ResidentMenu.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Staff_AssignUserToRoom.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/UpdatePersonal_Information.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/SignUp.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Resident_GenerateReceipt.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ApuHostel.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_ApproveUser.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/StaffResidentsPaymentManagement.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/ManagerUserManagement.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_SearchRoom.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_UpdateRoomRate.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Staff_GenerateReceipt.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_UpdatingUser.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_UpdateUser.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Main.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Resident_MakePayment.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_AddRoom.java</file>
+            <file>file:/C:/Users/Yhung%20Yie/Documents/NetBeansProjects/Group%C2%A0AP%C2%A0-%C2%A0AHMFPS/src/Manager_DeleteRoom.java</file>
+        </group>
+    </open-files>
+</project-private>

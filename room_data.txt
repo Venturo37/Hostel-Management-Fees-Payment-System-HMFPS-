@@ -1,0 +1,6 @@
+R001,single,1000.0,true,TP000003
+R002,double,750.0,true,TP000006;TP000003
+R003,quadruple,1200.0,false,TP000004;TP000005
+R004,single,1000.0,true,TP000003
+R005,double,750.0,false,null
+R006,quadruple,600.0,false,TP000010

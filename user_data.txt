@@ -1,0 +1,8 @@
+TP000001,Jason,jason123,jason@gmail.com,manager,true
+TP000002,Alice,alice123,alice@gmail.com,staff,true
+TP000003,Gerald,gerald123,gerald@gmail.com,resident,true
+TP000004,Gogo,gogo123,gogo@gmail.com,resident,true
+TP000005,Joshua,joshua123,joshua@gmail.com,resident,true
+TP000006,Zack,zack123,zack@gmail.com,resident,true
+TP000007,Ivan,ivan123,ivan@gmail.com,resident,true
+TP000008,Zane,zane123,zane@gmail.com,resident,false

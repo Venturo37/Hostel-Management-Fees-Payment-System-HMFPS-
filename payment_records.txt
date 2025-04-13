@@ -1,0 +1,7 @@
+TP000003,rental fee,123123,790,2024-11-24,Confirmed
+TP000003,rental fee,344212,790,2024-11-24,Pending
+TP000004,rental fee,123421,790,2024-11-24,Confirmed
+TP000007,rental fee,232123,790,2024-11-24,Confirmed
+TP000003,rental fee,321321,500.0,2025-01-18,Pending
+TP000003,rental fee,a12345,2000.0,2025-01-30,Confirmed
+TP000010,rental fee,abc123,600.0,2025-02-03,Pending
