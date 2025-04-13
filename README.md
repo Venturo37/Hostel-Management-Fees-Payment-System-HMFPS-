@@ -1,4 +1,5 @@
 # Hostel-Management-Fees-Payment-System-HMFPS
+System is run in Apache Netbeans IDE 18, run ApuHostel.Java Source File to run the GUI.
 
 This is a JAVA application that allows users to sign in to the system. 
 After registration, users need to wait for their account approval by the administrator of the system.
